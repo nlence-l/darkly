@@ -1,0 +1,1 @@
+wget -q -r -np -nH -e robots=off http://192.168.1.35/.hidden/
